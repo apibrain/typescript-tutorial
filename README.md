@@ -4,7 +4,8 @@
 
 点击下图直达教程：
 
-![[TypeScript 简明教程首页](https://typescript-tutorial-gamma.vercel.app)](thumbnail.png)
+[![TypeScript 简明教程首页](thumbnail.png)](https://typescript-tutorial-gamma.vercel.app)
+
 
 ### 版权说明
 
